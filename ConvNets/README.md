@@ -13,5 +13,9 @@ Content:
 1. Beginner Convolutional Neural Network 
   - How to code a basic CNN that takes in as input a set of images and classify them accordingly
   
+2. Cats and Dogs Classifier
+  - Using a basic convolutional neural network to classify cats and dogs images
+  - Perform data augmentation to increase data size and prevent overfitting
+  
   
 Please check out the projects in the Project folder for more real-life use cases. Projects are run on Google Colab for learning purposes.
