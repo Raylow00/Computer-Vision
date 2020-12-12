@@ -17,5 +17,10 @@ Content:
   - Using a basic convolutional neural network to classify cats and dogs images
   - Perform data augmentation to increase data size and prevent overfitting
   
+3. AlexNet
+  - Using a modified version of AlexNet that takes in images of shape (224, 224, 3) instead of (150, 150, 3)
   
-Please check out the projects in the Project folder for more real-life use cases. Projects are run on Google Colab for learning purposes.
+4. VGG16
+  - Using a modified version of VGG16 that reached a higher accuracy than AlexNet with less overfitting
+  
+  
