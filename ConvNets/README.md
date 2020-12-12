@@ -23,4 +23,5 @@ Content:
 4. VGG16
   - Using a modified version of VGG16 that reached a higher accuracy than AlexNet with less overfitting
   
-  
+5. Transfer learning based on VGG-16
+  - Using transfer learning based on VGG-16, a cats and dogs classifier can be trained with shorter duration and higher accuracy/less overfitting
